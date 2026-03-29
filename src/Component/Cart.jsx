@@ -1,4 +1,5 @@
 import React from "react";
+import { toast } from "react-toastify";
 
 const Cart = ({ carts, setCarts }) => {
   //   console.log(carts);
@@ -10,10 +11,9 @@ const Cart = ({ carts, setCarts }) => {
 
   //   Delete specific 1 cart
   const handleDelete = (item) => {
-    // console.log(item);
-    const filterArray = carts.filter((c) => c.id !== item.id);
-    // console.log(filterArray);
-    setCarts(filterArray);
+    const filterItem = carts.filter((c) => c.id !== item.id);
+    setCarts(filterItem);
+     toast.warning("Item deleted to cart!")
   };
   return (
     <div className="p-10 ">
