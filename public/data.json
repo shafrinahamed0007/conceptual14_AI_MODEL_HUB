@@ -20,7 +20,7 @@
     "title": "Claude",
     "description": "অ্যানথ্রোপিকের তৈরি এআই যা অত্যন্ত মানবিক ভাষায় কথা বলে।\nবড় ফাইল বিশ্লেষণ এবং নির্ভুল তথ্য প্রদানে এটি বিশেষভাবে দক্ষ।",
     "price": 2750,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Claude_AI_logo.svg",
+    "image": "https://ai.nd.edu/assets/596220/claude_ai_logo.svg",
     "status": "mostwanted"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Perplexity AI",
     "description": "একটি আধুনিক সার্চ ইঞ্জিন যা উত্তরের সাথে সোর্স লিঙ্ক দেয়।\nরিয়েল-টাইম তথ্য খোঁজার জন্য এটি সেরা বিকল্প।",
     "price": 2350,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Perplexity_AI_logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perplexity_AI_logo.svg/250px-Perplexity_AI_logo.svg.png",
     "status": "popular"
   },
   {
@@ -44,7 +44,7 @@
     "title": "ElevenLabs",
     "description": "যেকোনো লেখাকে হুবহু মানুষের মতো কণ্ঠস্বরে রূপান্তর করে।\nভয়েস ক্লোনিং এবং ডাবিংয়ের জন্য এটি বর্তমানে সেরা।",
     "price": 600,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ElevenLabs_Logo.png",
+    "image": "https://www.drupal.org/files/project-images/elevenlabs.png",
     "status": "mostwanted"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Canva Magic Studio",
     "description": "ডিজাইন জগতের এআই টুল যা মুহূর্তেই গ্রাফিক্স তৈরি করে।\nসোশ্যাল মিডিয়া পোস্ট তৈরির জন্য এটি অত্যন্ত সহজ।",
     "price": 1450,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALEEt06Mn_srvfFDynr00ILhDlRdsI27bYA&s",
     "status": "popular"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Grammarly",
     "description": "ইংরেজি গ্রামার এবং লেখার ধরন উন্নত করার এআই সহকারী।\nঅফিশিয়াল মেইল এবং আর্টিকেল লেখার জন্য অপরিহার্য।",
     "price": 1400,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Grammarly_logo.svg",
+    "image": "https://sm.pcmag.com/pcmag_uk/review/g/grammarly/grammarly_ca38.png",
     "status": "favorite"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Lumen5",
     "description": "যেকোনো ব্লগ পোস্ট বা আর্টিকেল থেকে ভিডিও তৈরি করে।\nভিডিও মার্কেটিংয়ের কাজকে সহজ ও দ্রুত করে তোলে।",
     "price": 2200,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lumen5_Logo.png",
+    "image": "https://cdn.lumen5.com/lumen5-site-images/L5-logo/2024/Lumen5-PrimaryLogo.svg",
     "status": "mostwanted"
   },
   {
@@ -84,7 +84,7 @@
     "title": "NotebookLM",
     "description": "গুগলের এআই নোটবুক যা আপনার ডকুমেন্ট থেকে উত্তর দেয়।\nজটিল রিসার্চ পেপার বুঝতে এটি জাদুর মতো কাজ করে।",
     "price": 0,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/NotebookLM_logo.png",
+    "image": "https://miro.medium.com/0*V4gRlbePO88jj40L",
     "status": "favorite"
   }
 ]
