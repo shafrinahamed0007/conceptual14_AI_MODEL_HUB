@@ -57,7 +57,7 @@ function App() {
           />
         )}
       </Suspense>
-      {activeTab === "cart" && <Cart carts={carts} />}
+      {activeTab === "cart" && <Cart carts={carts} setCarts={setCarts} />}
       <Footer />
     </>
   );
